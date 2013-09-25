@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="help.png">images/help.png</file>
+        <file alias="network.png">images/network.png</file>
+        <file alias="plus.png">images/plus.png</file>
+    </qresource>
+</RCC>
