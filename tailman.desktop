@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TailMan
+Comment=Tail remote log files
+Exec=tailman
+Icon=tailman
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Qt;Network;
