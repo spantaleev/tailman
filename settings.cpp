@@ -77,6 +77,7 @@ void Settings::createUI() {
     buttonSave = buttonBoxForm->addButton(tr("Save"), QDialogButtonBox::ApplyRole);
     connect(buttonSave, SIGNAL(clicked()), this, SLOT(slotSaveSettings()));
     buttonDelete = buttonBoxForm->addButton(tr("Delete"), QDialogButtonBox::DestructiveRole);
+    buttonDelete->setEnabled(false);
     connect(buttonDelete, SIGNAL(clicked()), this, SLOT(slotDeleteTail()));
     buttonDelete->setStyleSheet("color:red;");
 
