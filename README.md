@@ -2,6 +2,8 @@ TailMan
 =======
 TailMan is a tab based application for monitoring multiple remote (or local) log files over ssh.
 
+![ScreenShot](https://raw.github.com/martinhjartmyr/tailman/master/images/tailman-gui.png)
+
 Manual installation
 -------------------
 First make sure you have you have the required libs below installed. Then open your `terminal`:
