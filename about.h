@@ -3,7 +3,7 @@
 
 #include <QDialog>
 
-#define VERSION "0.1 - 0924"
+#define VERSION "0.1.1"
 
 class About : public QDialog
 {
