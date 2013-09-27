@@ -4,6 +4,14 @@ TailMan is a tab based application for monitoring multiple remote (or local) log
 
 ![ScreenShot](https://raw.github.com/martinhjartmyr/tailman/master/images/tailman-gui.png)
 
+
+Installation
+-------------------
+
+A package for [ArchLinux](http://archlinux.org>) is available [here](https://aur.archlinux.org/packages/tailman/).
+Contributions, so that packages for other distros can be made, are always welcome.
+
+
 Manual installation
 -------------------
 First make sure you have you have the required libs below installed. Then open your `terminal`:
@@ -20,6 +28,7 @@ Dependencies
 ------------
 - [libssh](http://www.libssh.org/get-it/)
 - [qt4+](http://qt-project.org/downloads)
+
 
 Customization
 -------------
